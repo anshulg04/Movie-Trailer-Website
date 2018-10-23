@@ -1,6 +1,6 @@
 import project
 import fresh_tomatoes
-
+# This will show the image location for the particular Movie.
 three_idiots = project.movie("3 idiots","https://fanart.tv/fanart/movies/20453/moviethumb/3-idiots-56dbe7b229ce5.jpg","https://www.youtube.com/watch?v=xvszmNXdM4w","2009","8.4")
 fandf7 = project.movie("Furious 7","https://2.bp.blogspot.com/-KCErRWJaS40/VYKwVVkoG1I/AAAAAAAAAD8/EV3SUyi4vIQ/s1600/Fast-and-Furious-7-Poster.jpg","https://www.youtube.com/watch?v=Skpu5HaVkOc","2015","7.2")
 fandf8 = project.movie("Fast 8", "http://www.fotolip.com/wp-content/uploads/2016/05/Fast-And-Furious-8-1.jpg", "https://www.youtube.com/watch?v=uisBaTkQAEs","2017","9.0")
